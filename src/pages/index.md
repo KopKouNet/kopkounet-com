@@ -9,4 +9,4 @@ title: Nice Tat Astro Template
 
 [X(Twitter)](https://x.com/KopKouNet)
 
-[contact](/contact)
+[contact](mailto:info@kopkou.net)
