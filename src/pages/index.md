@@ -6,7 +6,10 @@ title: Nice Tat Astro Template
 
 # KopKouNet
 
+[Official Blog](https://kopkou.net)
 
-[X(Twitter)](https://x.com/KopKouNet)
+[X (Twitter)](https://x.com/KopKouNet)
 
 [Contact](mailto:info@kopkou.net)
+
+
