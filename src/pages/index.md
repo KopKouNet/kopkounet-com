@@ -6,9 +6,6 @@ title: Nice Tat Astro Template
 
 # KopKouNet
 
-[youtube](https://www.youtube.com/watch?v=sEyHnHjhlr4)
-
-[instagram](https://www.instagram.com/caseyneistat/)
 
 [X(Twitter)](https://x.com/KopKouNet)
 
