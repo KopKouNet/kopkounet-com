@@ -4,16 +4,12 @@ title: Nice Tat Astro Template
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
-# Nice Tat Astro Template
-
-[using this template](/how-to-use)
+# KopKouNet
 
 [youtube](https://www.youtube.com/watch?v=sEyHnHjhlr4)
 
 [instagram](https://www.instagram.com/caseyneistat/)
 
-[onlyfans](/onlyfans)
-
-[twitter](https://twitter.com/Casey)
+[X(Twitter)](https://x.com/KopKouNet)
 
 [contact](/contact)
