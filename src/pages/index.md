@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/Layout.astro
-title: Nice Tat Astro Template
+title: KopKouNet
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
